@@ -1,3 +1,44 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8404729&assignment_repo_type=AssignmentRepo)
 # Project Proposal
-Delete the contents of this file and replace with your project proposal, as described in the [instructions](./instructions.md)
+
+### Project title
+
+“Rotten Classes”
+
+### What and why?
+
+A website that allows students to rate their class experiences and inform other students on what the class is about when the provided course description is not informative enough. This system can potentially solve the issue of students entering a course unaware of its courseload or course dynamics.
+
+### For whom?
+
+This is for college students when deciding on a course to take for their following semester. To be even more specific, this first edition will be targeted towards NYU CAS CS undergraduates. Has the potential to expand to other students in other schools.
+
+### How?
+
+The front page will consist of a search bar for students to search for their course of interest.
+
+Under each course, there will be 2 sections 
+- Course description
+  - A crowd sourced description of the course, where anyone can edit–a similar function to Wikipedia
+- Course reviews/ratings (similar to Rotten Tomatoes)
+  - Reviews belong to individual users and only that user can edit/delete their reviews
+  - There will be a 5 point rating system used to describe: 
+    - Quality of the content 
+    - Workload of the course
+    - Difficulty of the course
+
+End users can interact with the website in 2 ways:
+- Be a passive user and read the course descriptions and reviews
+- Be an active contributor to the platform by: 
+  - Editing the course description 
+  - Ading/editing their reviews & ratings 
+
+In app chat box where prospective students can talk to upperclassmen about previous experience.
+
+Some examples of Possible expansions could be:  
+Expanding this application to other departments, schools within NYU, and other Universities.
+
+### Scope
+
+The baseline for the project itself will require programmers to code and design multiple features along a course list to create both a functioning and a beneficial application.  
+There is a relatively clear scope of a frontend, backend, and database component.  
+Additionally, there is excellent potential for modifications and expansions with an idea like this. Beyond the abundance of information, programmers can constantly add features to create a more polished user experience. However, it has the potential to be a functioning program within a short period when focusing on the most critical aspects of the program. Nevertheless, a quote-on-quote finished product may not meet our or any stakeholders’ standards when implementing the basics.

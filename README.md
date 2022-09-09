@@ -10,7 +10,7 @@ A website that allows students to rate their class experiences and inform other 
 
 ### For whom?
 
-This is for college students when deciding on a course to take for their following semester. To be even more specific, this first edition will be targeted towards NYU CAS CS undergraduates. Has the potential to expand to other students in other schools.
+This is for college students when deciding on a course to take for their following semester. To be even more specific, this first edition will be targeted towards NYU CAS CS and Tandon CS undergraduates. Has the potential to expand to other students in other schools.
 
 ### How?
 

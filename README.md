@@ -34,6 +34,13 @@ End users can interact with the website in 2 ways:
 
 In app chat box where prospective students can talk to upperclassmen about previous experience.
 
+Some examples of other features could be:
+- reddit-like or collegeconfidential-like forum / Q&A section for specific and general enquiries.
+- join / create study groups for classes
+- points / reward system for active contributors
+- career / course guidance (via alumni, graduates, seniors, partnered experts)
+- recommend unique, best and life-changing classes
+
 Some examples of Possible expansions could be:  
 Expanding this application to other departments, schools within NYU, and other Universities.
 

@@ -5,6 +5,7 @@
 2. Richard Yang Chen Xiao
 3. CJ Nnorom
 4. Sonia Jain
+5. Ronit Singh
 
 ### Project title
 

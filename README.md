@@ -1,5 +1,11 @@
 # Project Proposal
 
+### Collaboration
+1. Zack Goldberg
+2. Richard Yang Chen Xiao
+3. CJ Nnorom
+4. Sonia Jain
+
 ### Project title
 
 “Rotten Classes”
